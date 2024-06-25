@@ -53,10 +53,10 @@ README.md: This file providing an overview of the project, dataset, analysis, an
 
 Ensure you have the following Python libraries installed to run the notebook:
 
-numpy
-pandas
-matplotlib
-seaborn
+1. numpy
+2. pandas
+3. matplotlib
+4. seaborn
 
 **#Usage**
 

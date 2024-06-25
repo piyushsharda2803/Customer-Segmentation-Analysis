@@ -27,9 +27,15 @@ The analysis covers the following aspects:
 
 Descriptive Statistics: Summary statistics for numerical columns such as age, orders, and sales amount.
 
+![Screenshot 2024-06-26 011308](https://github.com/piyushsharda2803/Salesanalysis/assets/87650893/29bda90f-9dcc-4b65-9133-72df29323b82)
+
 Visualization: Utilization of seaborn and matplotlib for visualizing data distributions and relationships. Key visualizations include:
 
+![download](https://github.com/piyushsharda2803/Salesanalysis/assets/87650893/eaf924f1-9f20-4a05-abde-cb18983eacef)
+
 Count plots for categorical variables (e.g., Gender, Age Group, State).
+![download (1)](https://github.com/piyushsharda2803/Salesanalysis/assets/87650893/e50f9d6e-ab21-48db-9a2c-f1081c5c7255)
+
 Bar plots to show total sales by various categories (e.g., Gender, Age Group, State, Occupation, Product Category).
 Insights: Derived insights regarding customer demographics, popular product categories, and top-performing regions in terms of sales.
 

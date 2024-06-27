@@ -1,4 +1,4 @@
-**#Sales Data Analysis**
+**#Customer Segmentation Analysis**
 
 This repository contains a data analysis project focused on exploring and visualizing sales data using Python. The analysis includes insights into customer demographics, purchasing behavior, and regional sales patterns derived from the provided dataset.
 
